@@ -24,8 +24,10 @@ Model, eğitim setinden 5.000 örneklik bir doğrulama bölümü ile 30 epoch i�
 
 # Sonuçlar
 Eğitim sonrası modelin performansı test seti üzerinde değerlendirilmiştir. Eğitim geçmişini (doğruluk ve kayıp) görselleştirmek için Matplotlib kullanılabilir.
+
 ----
 ----
+
 # Main Theme of the Project
 This project demonstrates how to build a simple image classification model with Keras using TensorFlow as a backend. The model is trained on the Fashion MNIST dataset of grayscale images of clothing items.
 
