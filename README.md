@@ -5,7 +5,6 @@ Bu proje, TensorFlow arka uç olarak kullanarak Keras ile basit bir görüntü s
 
 # Kurulum
 Bu projeyi çalıştırmak için bilgisayarınızda Python'un yüklü olması gerekmektedir. Gerekli kütüphaneleri yüklemek için pip kullanabilirsiniz:
-```bash
 pip install tensorflow matplotlib pandas
 
 # Kurulum
@@ -32,7 +31,6 @@ This project demonstrates how to build a simple image classification model with 
 
 # Installation
 You need to have Python installed on your computer to run this project. You can use pip to install the necessary libraries:
-```bash
 pip install tensorflow matplotlib pandas
 
 # Architecture of the Model
