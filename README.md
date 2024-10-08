@@ -1,14 +1,11 @@
 # Image_Classification_With_Keras
 
 # Projenin Ana Teması
-Bu proje, TensorFlow arka uç olarak kullanarak Keras ile basit bir görüntü sınıflandırma modeli oluşturmayı göstermektedir. Model, giyim eşyalarının yer aldığı gri tonlamalı görüntülerden oluşan Fashion MNIST veri kümesi üzerinde eğitilmiştir.
+Bu proje, TensorFlow arka uç olarak kullanarak Keras ile basit bir görüntü sınıflandırma modeli oluşturmayı göstermektedir. Model, giyim eşyalarının yer aldığı gri tonlamalı görüntülerden oluşan Fashion MNIST veri kümesi üzerinde eğitilmiştir. Bu projede kullanılan veri kümesi, 10 farklı giyim kategorisinden oluşan 70.000 gri tonlamalı görüntü içeren Fashion MNIST veri kümesidir. Veri kümesi eğitim, doğrulama ve test setleri olarak bölünmüştür.
 
 # Kurulum
 Bu projeyi çalıştırmak için bilgisayarınızda Python'un yüklü olması gerekmektedir. Gerekli kütüphaneleri yüklemek için pip kullanabilirsiniz:
 pip install tensorflow matplotlib pandas
-
-# Kurulum
-Bu projede kullanılan veri kümesi, 10 farklı giyim kategorisinden oluşan 70.000 gri tonlamalı görüntü içeren Fashion MNIST veri kümesidir. Veri kümesi eğitim, doğrulama ve test setleri olarak bölünmüştür.
 
 # Modelin Mimarisi
 <ul>
