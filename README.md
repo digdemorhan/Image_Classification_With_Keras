@@ -38,7 +38,7 @@ pip install tensorflow matplotlib pandas
   <li>Input Layer</li>
   <li>Flatten Layer</li>
   <li>Dense layer with 300 neurons and ReLU activation (Hidden Layer 1)</li>
-  <li>1Dense layer with 100 neurons and ReLU activation (Hidden Layer 2)</li>
+  <li>Dense layer with 100 neurons and ReLU activation (Hidden Layer 2)</li>
   <li>Output layer with 10 neurons and softmax activation</li>
 </ul>
 
