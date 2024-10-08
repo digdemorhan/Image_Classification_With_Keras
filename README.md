@@ -26,8 +26,9 @@ Eğitim sonrası modelin performansı test seti üzerinde değerlendirilmiştir.
 ----
 
 # Main Theme of the Project
-This project demonstrates how to build a simple image classification model with Keras using TensorFlow as a backend. The model is trained on the Fashion MNIST dataset of grayscale images of clothing items.
+This project demonstrates how to build a simple image classification model with Keras using TensorFlow as a backend. The model is trained on the Fashion MNIST dataset of grayscale images of clothing items. The dataset used in this project is the Fashion MNIST dataset, which contains 70,000 grayscale images of 10 different clothing categories. The dataset is divided into training, validation and test sets.
 
+Translated with DeepL.com (free version)
 # Installation
 You need to have Python installed on your computer to run this project. You can use pip to install the necessary libraries:
 pip install tensorflow matplotlib pandas
